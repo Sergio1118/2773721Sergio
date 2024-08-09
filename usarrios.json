@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "sergio",
+        "apellido": " perez",
+        "numero_telefonico": "23456789",
+        "documento": "234567890",
+        "emil": "sdfghjklu00f1"
+    },
+    {
+        "id": 2,
+        "nombre": " jenifer",
+        "apellido": "perez",
+        "numero_telefonico": "234567890",
+        "documento": "3456789",
+        "emil": "asedrftgyhuj"
+    }
+]
